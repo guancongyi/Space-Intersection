@@ -1,5 +1,5 @@
 # Space_Intersection
-feature points detection, feature points matching, error feature points detection, and matching points coordinates calculation of 2 images
+feature points detection, feature points matching, error feature points elimination(RANSAC), and matching points coordinates calculation of 2 images
 使用时只需更改图片路径，解析好的XML excel路径（excel）放到文件夹，输出结果路径
 
 
